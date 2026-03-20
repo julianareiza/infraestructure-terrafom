@@ -282,3 +282,19 @@ Code → Lint → SAST → Tests → SonarCloud → Build → Trivy → Push →
 4. **Immutable Artifacts**: cada imagen se tagea con el commit SHA, garantizando trazabilidad y reproducibilidad
 5. **Least Privilege**: runners con ServiceAccounts especificos, secrets gestionados por GitHub, sin credenciales hardcodeadas
 6. **Auditabilidad**: cada cambio en codigo o infraestructura pasa por el pipeline y queda registrado en GitHub Actions
+
+
+## Evidences: 
+
+1. Cluster up and running:
+![K9Cluster](.attachments/cluster-running.png)
+
+2. Workflows IAC: 
+
+![workflowIac](.attachments/workflows-iac.png)
+
+3. 
+
+![workflowAap](.attachments/workflows-app.png)
+
+4. 
