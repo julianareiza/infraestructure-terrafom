@@ -318,3 +318,5 @@ Code → Lint → SAST → Tests → SonarCloud → Build → Trivy → Push →
 {"version":"stable","commit":"9e3bee5adcb3ead8668095d60785ffce48febf28"}% 
 ~~~
 
+5. Alerts:
+
