@@ -33,6 +33,7 @@
       "infra": "https://github.com/julianareiza/infraestructure-terraform"
     }
   },
+  
   "ecr_repositories": {
     "app-ge": {
       "repository_name": "app-ge",
